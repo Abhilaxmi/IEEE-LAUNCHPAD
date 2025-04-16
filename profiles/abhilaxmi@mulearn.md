@@ -2,7 +2,8 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> 
+I am a passionate and purpose-driven individual currently serving as the Co-Lead Chief Executive Officer of the Innovation and Entrepreneurship Development Cell (IEDC). As a first-year Mechanical Engineering student, I blend my technical foundation with a strong interest in innovation, leadership, and community development. I am actively involved in building startup ecosystems, mentoring budding entrepreneurs, and creating platforms for young minds to explore real-world problem-solving.  
 
 
 
@@ -52,7 +53,3 @@ https://github.com/Abhilaxmi/IEEE-LAUNCHPAD/commits?author=Kochouseph26John
 https://www.linkedin.com/in/abhi-laxmi-a94475313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
