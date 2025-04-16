@@ -1,55 +1,55 @@
-# Full Name 
+# Abhi Laxmi
 
 ### About Me
 
 > write about your self .................. (minimum 200 Characters)
 
 
-## Portfolio Highlights
 
-### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+                                 
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- As the co-lead (CEO) of the Innovation and Entrepreneurship Development Cell (IEDC), I strive to lead with vision, collaboration, and impact. My role involves fostering a culture of innovation, empowering young minds to think creatively and take initiative in solving real-world challenges. By promoting a supportive environment for experimentation and learning, I aim to influence my peers to embrace entrepreneurship as a mindset. Through strategic collaborations, effective communication, and leading by example, I work to inspire a new generation of changemakers driven by purpose and passion.  
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+-As the Co-Lead Chief Executive Officer of the Innovation and Entrepreneurship Development Cell (IEDC), I believe that strong leadership begins with building meaningful connections. I actively cultivate networking skills by engaging with industry professionals, startup founders, academic experts, and fellow innovators, creating a dynamic ecosystem of collaboration and knowledge-sharing. I plan to strengthen community engagement through interactive workshops, idea incubation programs, and outreach events that bridge the gap between students and real-world opportunities.   
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- As the Co-Lead Chief Executive Officer of IEDC, I am committed to playing an active role in strengthening Kerala’s startup ecosystem through both immediate actions and long-term strategies. In the short term, I aim to cultivate a vibrant startup culture within campuses by organizing ideation bootcamps, hackathons, and pitch events that encourage students to transform ideas into viable solutions. I plan to build strong industry-academia connections by engaging local entrepreneurs, incubators, and mentors from organizations like KSUM and Maker Village. By initiating collaborations with other IEDCs and focusing on solving real-world local problems—especially in areas like agriculture, waste management, and tourism , I intend to drive grassroots innovation.  
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- I believe Kerala has immense potential to become a powerhouse in the technology startup ecosystem by strategically leveraging its talent, education system, and growing digital infrastructure. With a high literacy rate, a strong base of technically skilled youth, and an increasing number of innovation hubs, Kerala is well-positioned to lead in sectors like AI, health tech, agri-tech, and sustainable technologies. To accelerate this growth, we must focus on enhancing industry-academia collaborations, fostering a culture of risk-taking and innovation, and streamlining access to funding and mentorship.  
+
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I actively contribute to the open source community as a way to collaborate with global developers, share knowledge, and improve real-world software. My contributions include bug fixes, feature enhancements, and documentation updates for various open-source repositories, including those focused on web development, IoT, and Python-based automation tools. I’ve also initiated a few personal projects, such as a lightweight task automation script and a basic IoT sensor data visualizer. These experiences have helped me understand the importance of clean code, version control, issue tracking, and collaborative development. Contributing to open source has not only improved my technical skills but also connected me with a passionate global community working towards innovative, accessible, and sustainable technology solutions.  
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- I have always believed in the power of knowledge-sharing and have actively engaged with the tech community through various platforms. I regularly contribute to discussions and answer questions on forums like Stack Overflow, where I help fellow learners and developers troubleshoot issues, understand concepts, and improve their coding practices. Additionally, I participate in several technical Discord servers and developer communities, where I engage in collaborative problem-solving, share useful resources, and stay updated on the latest trends in technology.
+
+  
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- I have not done anything yet.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Have not done 
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
+- 
+https://github.com/Abhilaxmi/IEEE-LAUNCHPAD/commits?author=Kochouseph26John
+https://www.linkedin.com/in/abhi-laxmi-a94475313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 > In your portfolio, include the following details:
